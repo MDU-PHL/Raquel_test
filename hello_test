@@ -1,1 +1,2 @@
-p
+print("hello_test")
+
